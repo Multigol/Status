@@ -8,8 +8,8 @@ sites:
   - name: Multigol Digital
     url: https://www.multigoldigital.com.ar
   - name: Anura Webhook
-    url: http://www.multigoldigital.com.ar
     check: "tcp-ping"
+    url: 168.197.49.27
     port: 8000
 
 assignees:
