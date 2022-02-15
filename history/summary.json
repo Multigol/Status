@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3267,
-    "timeDay": 3267,
-    "timeWeek": 3267,
-    "timeMonth": 3267,
-    "timeYear": 3267,
+    "time": 3264,
+    "timeDay": 3264,
+    "timeWeek": 3264,
+    "timeMonth": 3264,
+    "timeYear": 3264,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 587,
-    "timeWeek": 587,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "time": 733,
+    "timeDay": 733,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
     "dailyMinutesDown": {}
   },
   {
     "name": "Anura Webhook",
-    "url": "http://www.multigoldigital.com.ar:8000/",
+    "url": "http://www.multigoldigital.com.ar:8000",
     "icon": "https://favicons.githubusercontent.com/www.multigoldigital.com.ar",
     "slug": "anura-webhook",
     "status": "down",
-    "uptime": "0.70%",
-    "uptimeDay": "0.70%",
-    "uptimeWeek": "0.70%",
-    "uptimeMonth": "0.70%",
-    "uptimeYear": "0.70%",
+    "uptime": "0.69%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "0.69%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "0.69%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-15": 73
+      "2022-02-15": 75
     }
   }
 ]
