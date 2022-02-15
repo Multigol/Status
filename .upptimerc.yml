@@ -6,7 +6,7 @@ sites:
   - name: Multigol
     url: https://www.multigol.com.ar
   - name: Multigol Digital
-    url: https://en.wikipedia.org
+    url: https://www.multigoldigital.com.ar
   - name: Anura Webhook
     url: http://www.multigoldigital.com.ar:8000/
 
