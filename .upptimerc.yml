@@ -19,7 +19,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   ##cname: demo.upptime.js.org
-  theme: ocean
+  theme: night
   baseUrl: /Status
   logoUrl: https://www.multigol.com.ar/wp-content/uploads/2021/01/logo-multigol-limpio-original.png
   name: MGStatus
