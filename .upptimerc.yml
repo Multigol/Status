@@ -13,7 +13,9 @@ sites:
     port: 8000
   - name: RENAPER
     url:  https://apirenaper.idear.gov.ar/apidatos/porDniSexo.php
-
+  - name: NOSIS
+    url:  https://ws02.nosis.com/api/validacion/?    
+    
 assignees:
   - Multigol
 
