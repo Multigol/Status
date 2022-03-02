@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.multigol.com.ar",
     "slug": "multigol",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3504,
-    "timeDay": 4156,
-    "timeWeek": 3552,
-    "timeMonth": 3504,
-    "timeYear": 3504,
-    "dailyMinutesDown": {
-      "2022-03-01": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3515,
+    "timeDay": 3656,
+    "timeWeek": 3651,
+    "timeMonth": 3515,
+    "timeYear": 3515,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Multigol Digital",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1404,
-    "timeDay": 1503,
-    "timeWeek": 1615,
-    "timeMonth": 1404,
-    "timeYear": 1404,
+    "time": 1420,
+    "timeDay": 1881,
+    "timeWeek": 1687,
+    "timeMonth": 1420,
+    "timeYear": 1420,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1698,
-    "timeDay": 596,
-    "timeWeek": 2004,
-    "timeMonth": 1698,
-    "timeYear": 1698,
+    "time": 1582,
+    "timeDay": 544,
+    "timeWeek": 1987,
+    "timeMonth": 1582,
+    "timeYear": 1582,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1249,
-    "timeDay": 1159,
-    "timeWeek": 1252,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "time": 1237,
+    "timeDay": 1142,
+    "timeWeek": 1193,
+    "timeMonth": 1237,
+    "timeYear": 1237,
     "dailyMinutesDown": {}
   }
 ]
