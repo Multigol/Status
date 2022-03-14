@@ -4,10 +4,10 @@
     "url": "https://www.multigol.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.multigol.com.ar",
     "slug": "multigol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3694,
@@ -15,7 +15,9 @@
     "timeWeek": 4584,
     "timeMonth": 3694,
     "timeYear": 3694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 1
+    }
   },
   {
     "name": "Multigol Digital",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "anura-webhook",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
