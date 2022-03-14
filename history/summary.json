@@ -4,19 +4,19 @@
     "url": "https://www.multigol.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.multigol.com.ar",
     "slug": "multigol",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3694,
-    "timeDay": 2912,
-    "timeWeek": 4584,
-    "timeMonth": 3694,
-    "timeYear": 3694,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3695,
+    "timeDay": 3331,
+    "timeWeek": 4515,
+    "timeMonth": 3695,
+    "timeYear": 3695,
     "dailyMinutesDown": {
-      "2022-03-14": 1
+      "2022-03-14": 4
     }
   },
   {
