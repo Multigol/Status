@@ -4,10 +4,10 @@
     "url": "https://www.multigol.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.multigol.com.ar",
     "slug": "multigol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3690,
@@ -15,7 +15,9 @@
     "timeWeek": 4375,
     "timeMonth": 3690,
     "timeYear": 3690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 1
+    }
   },
   {
     "name": "Multigol Digital",
