@@ -1,7 +1,7 @@
 url: https://apirenaper.idear.gov.ar/apidatos/porDniSexo.php
-status: down
-code: 504
-responseTime: 12709
-lastUpdated: 2023-06-12T14:40:25.087Z
+status: up
+code: 200
+responseTime: 2404
+lastUpdated: 2023-06-12T14:45:46.201Z
 startTime: Tue Feb 22 2022 21:13:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
