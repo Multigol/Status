@@ -15,6 +15,8 @@ sites:
     url: https://api.b2chat.io/health
   - name: WebHook MP
     url: https://multigol.float-zone.com:8888/status
+  - name: Colpy
+    url: https://www.colppy.com/
     
 assignees:
   - Multigol
