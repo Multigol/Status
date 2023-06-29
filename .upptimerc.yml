@@ -18,7 +18,7 @@ sites:
   - name: Colpy
     url: https://www.colppy.com/
   - name: MacroClickagos
-    url: https://203.161.54.76:8001/test
+    url: http://203.161.54.76:8001/test
     
 assignees:
   - Multigol
