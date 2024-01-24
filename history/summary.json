@@ -140,19 +140,19 @@
     "url": "https://api.b2chat.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.b2chat.io.ico",
     "slug": "b2-chat",
-    "status": "down",
+    "status": "up",
     "uptime": "72.42%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 74,
-    "timeWeek": 271,
-    "timeMonth": 269,
-    "timeYear": 264,
+    "timeDay": 77,
+    "timeWeek": 247,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-01-24": 0
+      "2024-01-24": 11
     }
   },
   {
