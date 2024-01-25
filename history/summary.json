@@ -36,8 +36,7 @@
       "2023-02-18": 16,
       "2023-02-15": 23,
       "2023-02-12": 191,
-      "2023-02-11": 216,
-      "2023-01-25": 19
+      "2023-02-11": 216
     }
   },
   {
@@ -78,8 +77,7 @@
       "2023-06-03": 522,
       "2023-04-23": 62,
       "2023-03-31": 19,
-      "2023-03-28": 15,
-      "2023-01-25": 19
+      "2023-03-28": 15
     }
   },
   {
@@ -131,8 +129,7 @@
       "2023-06-21": 139,
       "2023-06-09": 31,
       "2023-06-05": 65,
-      "2023-05-21": 51,
-      "2023-01-25": 18
+      "2023-05-21": 51
     }
   },
   {
@@ -142,18 +139,16 @@
     "slug": "b2-chat",
     "status": "up",
     "uptime": "72.42%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
     "timeDay": 77,
     "timeWeek": 247,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {
-      "2024-01-24": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WebHook MP",
@@ -161,11 +156,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/multigol.float-zone.com.ico",
     "slug": "web-hook-mp",
     "status": "up",
-    "uptime": "93.65%",
+    "uptime": "93.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "93.65%",
+    "uptimeYear": "93.66%",
     "time": 680,
     "timeDay": 482,
     "timeWeek": 628,
