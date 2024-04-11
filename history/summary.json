@@ -208,18 +208,20 @@
     "url": "https://login.colppy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/login.colppy.com.ico",
     "slug": "colppy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 160,
-    "timeWeek": 155,
-    "timeMonth": 189,
+    "timeDay": 169,
+    "timeWeek": 157,
+    "timeMonth": 188,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-11": 0
+    }
   },
   {
     "name": "MacroClickagos",
