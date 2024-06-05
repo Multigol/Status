@@ -137,10 +137,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.b2chat.io.ico",
     "slug": "b2-chat",
     "status": "up",
-    "uptime": "77.68%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.87%",
+    "uptime": "77.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 266,
     "timeDay": 262,
@@ -148,7 +148,6 @@
     "timeMonth": 261,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-06-05": 7,
       "2024-05-23": 48
     }
   },
@@ -157,9 +156,9 @@
     "url": "https://multigol.float-zone.com:8888/status",
     "icon": "https://icons.duckduckgo.com/ip3/multigol.float-zone.com.ico",
     "slug": "web-hook-mp",
-    "status": "up",
+    "status": "down",
     "uptime": "95.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.08%",
@@ -169,6 +168,7 @@
     "timeMonth": 569,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2024-06-05": 0,
       "2024-03-01": 16,
       "2024-02-15": 80,
       "2024-02-08": 92,
