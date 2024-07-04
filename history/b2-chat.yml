@@ -1,7 +1,7 @@
 url: https://api.b2chat.io/health
-status: down
-code: 503
-responseTime: 278
-lastUpdated: 2024-07-04T21:35:21.611Z
+status: up
+code: 200
+responseTime: 270
+lastUpdated: 2024-07-04T21:41:05.867Z
 startTime: 2022-07-14T13:47:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
