@@ -1,7 +1,7 @@
 url: https://multigoldigital.com.ar:8001/test
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-22T06:36:13.401Z
+status: up
+code: 200
+responseTime: 461
+lastUpdated: 2024-08-22T07:36:24.669Z
 startTime: 2023-06-28T19:56:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
